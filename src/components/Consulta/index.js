@@ -30,10 +30,10 @@ export const Consulta = () => {
                 type="number"
                 name=""
                 id="id"
-                placeholder="Id del usuario"
+                placeholder="Enter you email"
                 onChange={(e) => setId(e.target.value)}
               />
-              <input type="submit" value="CONSULTAR" />
+              <input type="submit" value="Subscribe" />
             </form>
           </Nav>
         </Header>

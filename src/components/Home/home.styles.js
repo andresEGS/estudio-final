@@ -14,7 +14,8 @@ export const Wrapper = styled.div`
   align-items: center;
 
   img {
-    width: 60%;
+    width: 40%;
+
   }
 `
 

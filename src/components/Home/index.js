@@ -6,14 +6,52 @@ export const Home = () => {
     <Container>
       <Wrapper>
         <Section>
-          <h1>fbdfbdfbdfbdfbdfb dfbdfbdfbdfbdfbdf</h1>
+          <img src="/img/img1.png" alt="" srcset="" />
+          <h1>"Life is the ultimate gift"</h1>
           <p>
-            Lorem ipsum dolor sit, amet consectetur <br />
-            adipisicing elit. Saepe
+            This is your kanye west quote for today, click below to <br />
+            get another one
           </p>
-          <NavLinkRouter to="consultas">consultar</NavLinkRouter>
+          <NavLinkRouter to="consultas">Get new one</NavLinkRouter>
         </Section>
-        <img src="/img/kSnhGC3.jpg" alt="" srcset="" />
+          <img src="/img/img2.webp" alt="" srcset="" />
+        <br />
+        <section>
+          <div></div>
+        </section>
+        <section>
+          <div>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+          </div>
+          <h2>Be the first to access it</h2>
+          <br />
+          <p>Subscribe to receive updates and join our beta list.</p> <br />
+          <NavLinkRouter to="consultas">Subscribe</NavLinkRouter>
+        </section>
       </Wrapper>
       <FooterComponent />
     </Container>
